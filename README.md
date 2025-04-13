@@ -370,7 +370,10 @@ cd /
 **Run `ls` again and insert the content here:**
 <details>
     <summary>Your Answer</summary>
-    ....
+    bin                etc   lib.usr-is-merged  mnt   run                 srv  var
+bin.usr-is-merged  home  lib64              opt   sbin                sys
+boot               init  lost+found         proc  sbin.usr-is-merged  tmp
+dev                lib   media              root  snap                usr
 </details>
 
 Now navigate through your filesystem using `cd` and the name of the directory you want to set as your new `pwd`.
@@ -441,7 +444,7 @@ When you finished that tutorial, open a file in your home directory and manipula
 **How do you save a buffer to a new filename from within `vim`?**
 <details>
     <summary>Your Answer</summary>
-    .....
+    :w FILENAME
 </details>
  
 
