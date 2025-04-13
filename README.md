@@ -72,7 +72,7 @@ Try accessing the `return_value` identifier without prepending `$`.
 
 <details>
     <summary>You Answer</summary>
-    ......
+    only return_value is written, because the echo command is there to return it.
 </details>
 
 ### Task 3: Function-Identifiers
