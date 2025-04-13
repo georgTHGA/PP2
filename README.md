@@ -303,7 +303,7 @@ cat ./function
 **What happend?**
 <details>
     <summary>Your Explaination</summary>
-    .....
+    the first function is only in functions and the second function is in both files
 
 </details>
 
